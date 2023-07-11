@@ -38,20 +38,6 @@ Vue.config.devtools = true;
                 mousePY() {
                     return this.mouseY / this.height;
                 },
-                cardStyle() {
-                    const rX = this.mousePX * 30;
-                    const rY = this.mousePY * -30;
-                    return {
-                        transform: `rotateY(${rX}deg) rotateX(${rY}deg)`
-                    };
-                },
-                cardBgTransform() {
-                    const tX = this.mousePX * -40;
-                    const tY = this.mousePY * -40;
-                    return {
-                        transform: `translateX(${tX}px) translateY(${tY}px)`
-                    };
-                },
                 cardBgImage() {
                     return {
                         backgroundImage: `url(${this.dataImage})`
