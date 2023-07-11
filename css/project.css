@@ -11,7 +11,7 @@
     margin-top: 10px;
     margin-bottom: 10px;
     font-family: 'Dovemayo_gothic', sans-serif;
-    border-bottom: 1px solid #daeeda;
+    border-bottom: 1px solid #CCCCCC;
     }
 
 .Projects_Projects__E9SvD{
@@ -23,7 +23,7 @@
     font-size: 24px;
     color: #ffffff;
     padding-bottom: 10px;
-    border-bottom: 1px solid #daeeda;
+    border-bottom: 1px solid #cccccc;
     font-family: 'Dovemayo_gothic', sans-serif; 
 }
 
@@ -50,7 +50,7 @@
 }
 
 .Projects_project__hHhvb {
-    background: #daeeda;
+    background: #ffffff;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -141,5 +141,5 @@
 }
 
 .Projects_red__r_DWh {
-    color: 	#daeeda;
+    color: 	#FF1493;
 }
